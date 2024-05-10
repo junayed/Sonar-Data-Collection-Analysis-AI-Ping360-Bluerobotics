@@ -71,10 +71,7 @@ pip install brping
 3. **Run the Script**:
    - Update the serial port in the script (`"COM4"` in Windows or `"/dev/ttyUSB0"` in Linux/Mac).
    - Update the `output_directory` path to your desired location.
-   - Execute the script:
-     ```bash
-     python ping360_data_processing.py
-     ```
+
 
 4. **Inspect Results**:
    - The script will output raw and formatted data in CSV files in the specified directory.
@@ -83,14 +80,13 @@ pip install brping
 
 ```
 ping360-sonar-data-processing/
-│
-├── ping360_data_processing.py    # The main script for collecting and processing sonar data
-└── README.md                     # This README file
+└── Data Collection
+   ├── ping360.py
+   ├── ping360_connection.py    # The main script for collecting and processing sonar data
+   └── README.md                # This README file
 ```
 
 ## Documentation References
-
-- [Blue Robotics Ping360 Documentation](https://docs.bluerobotics.com/ping360/)
 - [Blue Robotics GitHub - Ping Library](https://github.com/bluerobotics/ping-python)
 
 ## License
