@@ -25,11 +25,11 @@ For a detailed analogy and to explore the potential of our denoising approach, p
 
 ## Sonar Sensor Data
 ### Data that is directly collected by sonar
-![Data that is directly collected by sonar](./Results/Picture1.png)
+![Data that is directly collected by sonar](Ping360-Capture-analysis-and-AI/Results/Picture1.png)
 
 ## Polar co-ordinate Results
 ### Cartesian denoising to Polar Denoising
-![Cartesian denoising to Polar Denoising](./Results/Picture2.png)
+![Cartesian denoising to Polar Denoising](Ping360-Capture-analysis-and-AI/Results/Picture2.png)
 
 ### Future Work
 - Further analysis will be available once the project report/and our manuscript is published.
