@@ -23,13 +23,20 @@ For a detailed analogy and to explore the potential of our denoising approach, p
 
 **Some result samples**
 
-| Sensor Sonar Data | Polar Representation |
-|------------------|-----------------|
-| ![Before](./Results/Picture1.png) | ![After](./Results/Picture2.png) |
+## Sonar Sensor Data
+### Data that is directly collected by sonar
+![Data that is directly collected by sonar](./Results/Picture1.png)
+
+## Polar co-ordinate Results
+### Cartesian denoising to Polar Denoising
+![Cartesian denoising to Polar Denoising](./Results/Picture2.png)
 
 ### Future Work
 - Further analysis will be available once the project report/and our manuscript is published.
 - My team is currently working to incorporate several state-of-the-art deep learning algorithms to explore object detection possibilities. Though this may not be immediately practical, we are optimistic about the future potential of this preprocessing analogy.
 
+
+### Special Thanks
+Special thanks to Dr. Somasundar Kannan for allowing me to use his experimental equipments, and give me full freedom to lead the team. Specially, Bryan from ENSEIRB-MATMECA. Also, later on, thanks to Hamid Reza for continuing to carry this work further with the collaboration with Prof. Jinchang Ren, and trying to push the limit with Oceaneering inc.
 
 Stay tuned for more updates and insights!
