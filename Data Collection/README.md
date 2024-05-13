@@ -62,7 +62,7 @@ pip install brping
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/ping360-sonar-data-processing.git
+    git clone https://github.com/yourusername/Sonar-Data-Collection-Analysis-AI-Ping360-Bluerobotics.git
     ```
 
 2. **Connect the Sonar**:
