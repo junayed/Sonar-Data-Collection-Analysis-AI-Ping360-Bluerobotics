@@ -141,13 +141,13 @@ output_directory = Path("Deine your path")
 output_directory.mkdir(parents=True, exist_ok=True)
 
 # Define parameters
-T = 16  # Transmit duration
+T = 16  # Water Temperature
 S = 0  # Salinity - clean water is 0
 D = 0.15  # Depth, the position of the sensor from the surface of the water
 max_range = 2  # Maximum range in meters
 number_of_samples = 1200  # Number of samples needed
 G = 1  # Gain setting
-transmit_duration = 16
+transmit_duration = 16 # Transmit duration for a single acoustic ping
 transmit_frequency = 1000
 
 # Initialize Ping360 sonar
